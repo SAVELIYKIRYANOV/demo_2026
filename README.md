@@ -2,3 +2,4 @@
 
 new feature
 another feature
+and another feature
